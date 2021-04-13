@@ -28,7 +28,7 @@ export class TodoForm extends React.Component {
               id="todoInput"
               type="text"
               className="add-todo"
-              placeholder="Ne yapmamı istersin?"
+              placeholder="Yapılacak iş ekle?"
               autoComplete="off"
             />
           </form>
